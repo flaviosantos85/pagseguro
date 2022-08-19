@@ -1,0 +1,2 @@
+# pagseguro
+Transparent Checkout
